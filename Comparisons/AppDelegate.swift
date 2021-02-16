@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Comparisons
 //
-//  Created by John Bethancourt on 2/12/21.
 //
 
 import UIKit
